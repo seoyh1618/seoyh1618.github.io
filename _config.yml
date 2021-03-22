@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "안녕하세요"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "SeoYeonho"
+name                     : "SeoYeonho's"
 description              : "An amazing website."
 url                      : "https://seoyh2916.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
